@@ -127,7 +127,7 @@ Facilitar o controle de gastos e metas financeiras com:
 ## 📌 Em resumo
 O app é um **companheiro financeiro digital**, pensado para iniciantes, que transforma o controle de gastos em uma experiência leve, natural e educativa.
 
-🧠 # Reflexões
+# 🧠 Reflexões
 
 ### O que funcionou bem?  
 O refinamento do PRD previamente feito no Copilot ajudou muito, pois os créditos do Lovable acabaram em poucas interações.
