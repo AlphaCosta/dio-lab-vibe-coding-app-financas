@@ -79,3 +79,61 @@ O app busca resolver isso com **interação conversacional**, **classificação 
 ```
 
 # 💬 Interações com o Lovable
+
+> Crie um APP de finanças pessoais com o seguinte PRD (Product Requirements Document):{PRD}
+
+Resultado final no Lovable: https://easy-fin-chat.lovable.app
+
+# 📌 Resumo do App – Controle de Finanças Pessoais Conversacional
+
+## 🎯 Objetivo
+Facilitar o controle de gastos e metas financeiras com:
+- **Interação conversacional** em linguagem natural.  
+- **Classificação automática de transações**.  
+- **Dicas personalizadas de economia**.  
+
+---
+
+## 👥 Público-Alvo
+- Pessoas que querem começar a organizar suas finanças sem complicação.  
+- Usuários iniciantes, principalmente entre **18 e 40 anos**.  
+
+---
+
+## ⚙️ Funcionalidades Principais
+- Registro de gastos via chat em linguagem natural.  
+- Classificação automática por categorias (alimentação, transporte, lazer, contas fixas).  
+- Definição e acompanhamento de metas financeiras.  
+- Agente Financeiro (IA) com recomendações práticas de economia.  
+- Relatórios simples e personalizados em gráficos e resumos.  
+
+---
+
+## 📱 Telas do MVP
+- **Chat principal** para interação e registro de gastos.  
+- **Metas financeiras** para definir objetivos.  
+- **Relatórios visuais** com gráficos básicos.  
+- **Configurações** para personalização.  
+
+---
+
+## ✅ Diferenciais
+- Experiência **conversacional e intuitiva**.  
+- **Educação financeira embutida** com dicas práticas.  
+- **Design universal**: acessível, simples e inclusivo.  
+
+---
+
+## 📌 Em resumo
+O app é um **companheiro financeiro digital**, pensado para iniciantes, que transforma o controle de gastos em uma experiência leve, natural e educativa.
+
+🧠 # Reflexões
+
+### O que funcionou bem?  
+O refinamento do PRD previamente feito no Copilot ajudou muito, pois os créditos do Lovable acabaram em poucas interações.
+
+### O que não funcionou como o esperado?  
+Esperava poder interagir mais vezes gratuitamente com o Lovable, mas as interações feitas já foram de grande valia para aprender mais sobre Vibe Coding.
+
+### O que aprendi sobre conversar com IAs?  
+Aprendi que é basicamente igual a conversar com uma pessoa: quanto mais detalhes e clareza você dá, melhor é a interação.
